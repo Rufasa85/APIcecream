@@ -1,0 +1,25 @@
+{
+  "name": "apicecream",
+  "version": "1.0.0",
+  "description": "api for ice creams",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/APIcecream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/APIcecream/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/APIcecream#readme"
+}
